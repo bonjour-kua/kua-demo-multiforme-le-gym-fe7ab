@@ -1,0 +1,27 @@
+{
+  "company_name": "MultiForme Le Gym",
+  "slug": "multiforme-le-gym-fe7ab",
+  "facebook_url": "https://www.facebook.com/profile.php?id=100063778710726",
+  "description": "Salle de sport et centre de remise en forme à Sorel-Tracy, avec équipements de musculation et de cardio.",
+  "industry": "Salle de sport",
+  "sector": "Salle de sport",
+  "city": "Sorel-Tracy",
+  "address": "Sorel-Tracy",
+  "french_phrases": [
+    "Salle de sport et centre de remise en forme à Sorel-Tracy",
+    "Équipements de musculation et de cardio modernes"
+  ],
+  "palette": {
+    "dominant": [
+      "#f76d0c",
+      "#eda86d",
+      "#803704"
+    ],
+    "vibrant": "#f76d0c",
+    "dark_vibrant": "#803704"
+  },
+  "logo": {
+    "rel_path": "_inputs/photos/logo-clean.jpg",
+    "bg_removed": false
+  }
+}
